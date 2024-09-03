@@ -24,7 +24,7 @@ export default function About() {
                 <Image src="/DivertidaMente2.jfif" alt="Filme 7" width={380} height={300} className={styles.image} />
                 <Image src="/ToyStory.jfif" alt="Filme 8" width={380} height={300} className={styles.image} />
                 <Image src="/OExorcista.jfif" alt="Filme 9" width={380} height={300} className={styles.image} />
-                <Image src="/Corra.jfif" alt="Filme 2" width={380} height={300} className={styles.image} />
+                <Image src="/Corra.jfif" alt="Filme 10" width={380} height={300} className={styles.image} />
             </div>
         </div>
     );
